@@ -138,7 +138,7 @@ class Interpreter:
     info = ""
 
     # Add user info
-    username = getpass.getuser()
+    username = "mate"
     current_working_directory = os.getcwd()
     operating_system = platform.system()
 

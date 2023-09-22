@@ -30,3 +30,6 @@ misc/
 
 # Ignore litellm_uuid.txt
 litellm_uuid.txt
+
+# Ignore venv
+.venv/
